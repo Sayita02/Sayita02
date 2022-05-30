@@ -1,6 +1,5 @@
-- Hi, I’m @Sayita02
-- I’m interested in learning the basics about different programming languages.
-- I’m currently learning C language, Structured Programming.
+
+-Interested in learning the basics about different programming languages. Currently learning C language, Structured Programming.
 - u/sayita02 on Reddit.
 
 <!---
