@@ -1,5 +1,4 @@
 
--Interested in learning the basics about different programming languages. Currently learning C language, Structured Programming.
 - u/sayita02 on Reddit.
 
 <!---
